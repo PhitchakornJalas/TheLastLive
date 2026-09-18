@@ -1,0 +1,246 @@
+000.png
+false
+bed1.png
+true
+bed10.png
+true
+bed11.png
+true
+bed12.png
+true
+bed13.png
+true
+bed14.png
+true
+bed15.png
+true
+bed16.png
+true
+bed2.png
+true
+bed3.png
+true
+bed4.png
+true
+bed5.png
+true
+bed6.png
+true
+bed7.png
+true
+bed8.png
+true
+bed9.png
+true
+carpet1.png
+false
+carpet2.png
+false
+carpet3.png
+false
+carpet4.png
+false
+carpet5.png
+false
+carpet6.png
+false
+carpet7.png
+false
+carpet8.png
+false
+Copy of door1.png
+true
+Copy of door2.png
+true
+Copy of door3.png
+true
+Copy of door4.png
+true
+Copy of door_1_ghost.png
+true
+Copy of door_2_ghost.png
+true
+Copy of door_3_ghost.png
+true
+Copy of door_4_ghost.png
+true
+Copy of edge_1.png
+true
+Copy of edge_10.png
+true
+Copy of edge_11.png
+true
+Copy of edge_12.png
+true
+Copy of edge_13.png
+true
+Copy of edge_14.png
+true
+Copy of edge_15.png
+true
+Copy of edge_16.png
+true
+Copy of edge_2.png
+true
+Copy of edge_3.png
+true
+Copy of edge_4.png
+true
+Copy of edge_5.png
+true
+Copy of edge_6.png
+true
+Copy of edge_7.png
+true
+Copy of edge_7_ghost.png
+true
+Copy of edge_8.png
+true
+Copy of edge_8_ghost.png
+true
+Copy of edge_9.png
+true
+Copy of floor_1_ghost.png
+false
+Copy of floor_2_ghost.png
+false
+Copy of homefloor.png
+false
+Copy of window_1.png
+true
+Copy of window_1_day.png
+true
+Copy of window_2.png
+true
+Copy of window_2_day.png
+true
+Copy of window_3.png
+true
+Copy of window_3_day.png
+true
+Copy of window_4.png
+true
+Copy of window_4_day.png
+true
+Copy of window_5.png
+true
+Copy of window_5_day.png
+true
+Copy of window_6.png
+true
+Copy of window_6_day.png
+true
+Copy of wood_1.png
+true
+Copy of Wood_1_lower.png
+true
+Copy of wood_2.png
+true
+Copy of wood_2_lower.png
+true
+Copy of wood_3.png
+true
+Copy of wood_3_lower.png
+true
+door1.png
+true
+door2.png
+true
+door3.png
+true
+door4.png
+true
+door_1_ghost.png
+true
+door_2_ghost.png
+true
+door_3_ghost.png
+true
+door_4_ghost.png
+true
+edge_1.png
+true
+edge_10.png
+true
+edge_11.png
+true
+edge_12.png
+true
+edge_13.png
+true
+edge_14.png
+true
+edge_15.png
+true
+edge_16.png
+true
+edge_2.png
+true
+edge_3.png
+true
+edge_4.png
+true
+edge_5.png
+true
+edge_6.png
+true
+edge_7.png
+true
+edge_7_ghost.png
+true
+edge_8.png
+true
+edge_8_ghost.png
+true
+edge_9.png
+true
+floor_1_ghost.png
+false
+floor_2_ghost.png
+false
+homefloor.png
+false
+table1.png
+true
+table2.png
+true
+table3.png
+true
+table4.png
+true
+window_1.png
+true
+window_1_day.png
+true
+window_2.png
+true
+window_2_day.png
+true
+window_3.png
+true
+window_3_day.png
+true
+window_4.png
+true
+window_4_day.png
+true
+window_5.png
+true
+window_5_day.png
+true
+window_6.png
+true
+window_6_day.png
+true
+wood_1.png
+true
+Wood_1_lower.png
+true
+wood_2.png
+true
+wood_2_lower.png
+true
+wood_3.png
+true
+wood_3_lower.png
+true

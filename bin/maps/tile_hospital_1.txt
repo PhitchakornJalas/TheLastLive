@@ -1,0 +1,538 @@
+000.png
+false
+bed1.png
+true
+bed10.png
+true
+bed11.png
+true
+bed12.png
+true
+bed13.png
+true
+bed14.png
+true
+bed15.png
+true
+bed16.png
+true
+bed2.png
+true
+bed3.png
+true
+bed4.png
+true
+bed5.png
+true
+bed6.png
+true
+bed7.png
+true
+bed8.png
+true
+bed9.png
+true
+candle.png
+true
+chair1.png
+true
+chair10.png
+false
+chair11.png
+false
+chair12.png
+false
+chair2.png
+true
+chair3.png
+true
+chair4.png
+true
+chair5.png
+false
+chair6.png
+false
+chair7.png
+false
+chair8.png
+false
+chair9-4 (1).png
+false
+chair9-4 (2).png
+true
+chair9-4 (3).png
+true
+chair9-4 (4).png
+true
+chair9-4 (5).png
+true
+chair9-4 (6).png
+true
+chair9-4 (7).png
+false
+chair9-4 (8).png
+false
+chair9-4 (9).png
+false
+chair9.png
+false
+counter1-1.png
+true
+counter1.png
+true
+counter2-1.png
+true
+counter2.png
+true
+counter3-1.png
+true
+counter3.png
+true
+counter4-1.png
+true
+counter4.png
+true
+counter5-1.png
+true
+counter5.png
+true
+counter6.png
+true
+door1.png
+true
+door2.png
+true
+door3.png
+true
+door4.png
+true
+door5.png
+true
+door6.png
+true
+door7.png
+true
+door8.png
+true
+door9.png
+true
+downedge.png
+true
+drawer.png
+true
+drawer2.png
+true
+drawer3.png
+true
+edge-3 (1).png
+true
+edge-3 (10).png
+true
+edge-3 (11).png
+true
+edge-3 (12).png
+true
+edge-3 (13).png
+true
+edge-3 (14).png
+true
+edge-3 (15).png
+true
+edge-3 (16).png
+true
+edge-3 (17).png
+true
+edge-3 (18).png
+true
+edge-3 (19).png
+true
+edge-3 (2).png
+true
+edge-3 (20).png
+true
+edge-3 (21).png
+true
+edge-3 (22).png
+true
+edge-3 (23).png
+true
+edge-3 (24).png
+true
+edge-3 (25).png
+true
+edge-3 (26).png
+true
+edge-3 (27).png
+true
+edge-3 (28).png
+true
+edge-3 (29).png
+true
+edge-3 (3).png
+true
+edge-3 (30).png
+true
+edge-3 (31).png
+true
+edge-3 (4).png
+true
+edge-3 (5).png
+true
+edge-3 (6).png
+true
+edge-3 (7).png
+true
+edge-3 (8).png
+true
+edge-3 (9).png
+true
+edge-4 (1).png
+true
+edge-4 (10).png
+true
+edge-4 (11).png
+true
+edge-4 (12).png
+true
+edge-4 (13).png
+true
+edge-4 (14).png
+true
+edge-4 (15).png
+true
+edge-4 (16).png
+true
+edge-4 (17).png
+true
+edge-4 (18).png
+true
+edge-4 (19).png
+true
+edge-4 (2).png
+true
+edge-4 (20).png
+true
+edge-4 (21).png
+true
+edge-4 (22).png
+true
+edge-4 (23).png
+true
+edge-4 (24).png
+true
+edge-4 (25).png
+true
+edge-4 (26).png
+true
+edge-4 (27).png
+true
+edge-4 (28).png
+true
+edge-4 (3).png
+true
+edge-4 (4).png
+true
+edge-4 (5).png
+true
+edge-4 (6).png
+false
+edge-4 (7).png
+true
+edge-4 (8).png
+true
+edge-4 (9).png
+true
+edge1-1.png
+true
+edge1-2.png
+true
+edge1.png
+true
+edge10-2.png
+true
+edge10.png
+true
+edge11-2.png
+true
+edge11.png
+true
+edge12-2.png
+true
+edge12.png
+true
+edge13-2.png
+true
+edge13.png
+true
+edge14-2.png
+true
+edge14.png
+true
+edge15-2.png
+true
+edge15.png
+true
+edge16.png
+true
+edge17.png
+true
+edge18.png
+true
+edge19.png
+true
+edge2-1.png
+true
+edge2-2.png
+true
+edge2.png
+true
+edge20.png
+true
+edge21.png
+true
+edge22.png
+true
+edge23.png
+true
+edge24.png
+true
+edge25.png
+true
+edge26.png
+true
+edge27.png
+true
+edge28.png
+true
+edge29.png
+true
+edge3-1.png
+true
+edge3-2.png
+true
+edge3.png
+true
+edge30.png
+true
+edge31.png
+true
+edge4-1.png
+true
+edge4-2.png
+true
+edge4.png
+true
+edge5-2.png
+true
+edge5.png
+true
+edge6-2.png
+true
+edge6.png
+true
+edge7-2.png
+true
+edge7.png
+true
+edge8-2.png
+true
+edge8.png
+true
+edge9-2.png
+true
+edge9.png
+true
+edgeblack-1.png
+true
+edgeblack-2.png
+true
+edgeblack-3.png
+true
+edgeblack-4.png
+true
+edgeblack.png
+true
+floor-1.png
+false
+floor-2.png
+false
+floor-3.png
+false
+floor-4.png
+false
+floor.png
+false
+floor2-2.png
+false
+floor2.png
+true
+floor3-2.png
+false
+leftedge.png
+true
+leftedge2.png
+true
+locker1.png
+true
+lockerdown.png
+true
+lockeropen.png
+true
+lockertop.png
+true
+ouija1.png
+true
+ouija2.png
+true
+ouija3.png
+true
+ouija4.png
+true
+ouija5.png
+true
+ouija6.png
+true
+pp.png
+true
+ppnew.png
+true
+rightedge.png
+true
+rightedge2.png
+true
+stair0.png
+true
+stair10.png
+true
+stair11.png
+true
+stair12.png
+true
+stair13.png
+true
+stair2.png
+true
+stair3.png
+true
+stair4.png
+true
+stair5.png
+true
+stair6.png
+true
+stair7.png
+true
+stair8.png
+true
+stair9.png
+true
+toilet-4 (1).png
+true
+toilet-4 (2).png
+true
+toilet-4 (3).png
+true
+toilet-4 (4).png
+true
+toilet1.png
+true
+toilet2.png
+true
+toilet3.png
+true
+toilet4.png
+true
+toiletdown.png
+true
+toiletfloor.png
+false
+toiletup.png
+true
+upedge.png
+true
+wall-4 (1).png
+true
+wall-4 (10).png
+true
+wall-4 (11).png
+true
+wall-4 (12).png
+true
+wall-4 (13).png
+true
+wall-4 (2).png
+true
+wall-4 (3).png
+true
+wall-4 (4).png
+true
+wall-4 (5).png
+true
+wall-4 (6).png
+true
+wall-4 (7).png
+true
+wall-4 (8).png
+true
+wall-4 (9).png
+true
+wall.png
+true
+wall1-2.png
+true
+wall1.png
+true
+wall10-2.png
+true
+wall10.png
+true
+wall11-2.png
+true
+wall11.png
+true
+wall12-2.png
+true
+wall13-2.png
+true
+wall14-2.png
+true
+wall15-2.png
+true
+wall2-1.png
+true
+wall2-2.png
+true
+wall2.png
+true
+wall3-2.png
+true
+wall3.png
+true
+wall4-2.png
+true
+wall4.png
+true
+wall5-2.png
+true
+wall5.png
+true
+wall6-2.png
+true
+wall6.png
+true
+wall7-2.png
+true
+wall7.png
+true
+wall8-2.png
+true
+wall8.png
+true
+wall9-2.png
+true
+wall9.png
+true
+wood1.png
+true
+wood2.png
+true
